@@ -1,0 +1,4 @@
+*.env
+**requirements.txt
+**Procfile
+**__pychache__
